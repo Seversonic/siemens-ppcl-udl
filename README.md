@@ -1,4 +1,5 @@
 # Siemens PPCL User Defined Language
+Updated from fork to have transparent background on keywords
 
 Siemens PPCL: User Defined Language for [Notepad++](https://notepad-plus-plus.org/).
 
